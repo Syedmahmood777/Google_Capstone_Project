@@ -7,6 +7,14 @@ As a data specialist working for Salifort Motors, you have received the results 
 ## Project Deliverables  
 For this deliverable, you are asked to choose a method to approach this data challenge based on your prior course work. Select either a regression model or a tree-based machine learning model to predict whether an employee will leave the company. Both approaches are shown are valid and acceptable as long as they predict the employee's tenure.
 
+## Actions Performed  
+* Data Discovery
+* Data Cleaning
+* Exploratory Data Analysis
+* Feature Engineering
+* Model Building
+* Model Testing
+* Model Evaluation
 
 
 
